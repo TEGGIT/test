@@ -1,0 +1,11 @@
+.header{
+    width: 250px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.header__content{
+   width: 100px;
+    background-color: blueviolet;
+}

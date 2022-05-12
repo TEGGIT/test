@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from "./components/Header";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         </p>
           <h1>Edit from <span style={{color: 'brown'}}>feature</span> branch</h1>
           <h2>Edit from <span style={{color: 'tomato'}}>develop</span> branch</h2>
+        <Header/>
       </header>
     </div>
   );
