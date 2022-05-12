@@ -11,6 +11,7 @@ function App() {
         </p>
           <h1>Edit from feature branch</h1>
           <h2>Edit from <span style={{color: 'tomato'}}>develop</span> branch</h2>
+        <p>Hi</p>
       </header>
     </div>
   );
