@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-          <h1>Edit from feature branch</h1>
+          <h1>Edit from <span style={{color: 'brown'}}>feature</span> branch</h1>
           <h2>Edit from <span style={{color: 'tomato'}}>develop</span> branch</h2>
       </header>
     </div>
